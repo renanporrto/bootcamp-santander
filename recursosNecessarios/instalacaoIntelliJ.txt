@@ -1,0 +1,2 @@
+Link para instalar o IntelliJ:  https://www.jetbrains.com/help/idea/installation-guide.html
+O IntelliJ é um ambiente de desenvolvimento.
